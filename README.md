@@ -7,3 +7,6 @@ for computational projects.
 
 The script will make the following subdirectories: data, results, bin/
 and manuscript.
+
+Dependencies:
+1. Bash 
